@@ -1,0 +1,175 @@
+{
+  "menuPizzas": [
+    {
+      "id": 1,
+      "nombre": "Margarita",
+      "ingredientes": ["tomate cherry", "mozzarella", "albahaca"],
+      "precio": 12000,
+      "img": "img/pizzas/margarita.png",
+      "stock": 25,
+      "id_cat": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Pepperoni",
+      "ingredientes": ["tomate", "mozzarella", "pepperoni"],
+      "precio": 11000,
+      "img": "img/pizzas/pepperoni.png",
+      "stock": 30,
+      "id_cat": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Napolitana",
+      "ingredientes": ["mozzarella", "tomate", "orégano", "aceitunas"],
+      "precio": 11500,
+      "img": "img/pizzas/napolitana.png",
+      "stock": 20,
+      "id_cat": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Pollo BBQ",
+      "ingredientes": ["mozzarella", "pollo", "salsa BBQ", "cebolla"],
+      "precio": 13000,
+      "img": "img/pizzas/pollobbq.png",
+      "stock": 18,
+      "id_cat": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Hawaiana",
+      "ingredientes": ["mozzarella", "jamón", "piña"],
+      "precio": 12480,
+      "img": "img/pizzas/hawaiana.png",
+      "stock": 22,
+      "id_cat": 1
+    },
+    {
+      "id": 6,
+      "nombre": "Veggie",
+      "ingredientes": ["tomate", "mozzarella", "pimiento", "cebolla", "aceitunas"],
+      "precio": 11500,
+      "img": "img/pizzas/veggie.png",
+      "stock": 15,
+      "id_cat": 1
+    },
+    {
+      "id": 7,
+      "nombre": "Garlic",
+      "ingredientes": ["mozzarella", "ajo", "perejil"],
+      "precio": 11800,
+      "img": "img/pizzas/garlic.png",
+      "stock": 12,
+      "id_cat": 1
+    },
+    {
+      "id": 8,
+      "nombre": "Todas las carnes",
+      "ingredientes": ["mozzarella", "jamón", "pollo", "chorizo", "pimiento"],
+      "precio": 14500,
+      "img": "img/pizzas/todaslascarnes.png",
+      "stock": 10,
+      "id_cat": 1
+    }
+  ],
+
+  "menuBebidas": [
+    { 
+        "id": 1, 
+        "nombre": "Coca-Cola 500 ml", 
+        "precio": 2000,
+        "img": "img/bebidas/cocacola500ml.png",
+        "stock": 50,
+        "id_cat": 2
+    },
+    { 
+        "id": 2, 
+        "nombre": "Coca-Cola Zero 500 ml", 
+        "precio": 2000,
+        "img": "img/bebidas/cocacolazero500ml.png",
+        "stock": 45,
+        "id_cat": 2
+     },
+    { 
+        "id": 3, 
+        "nombre": "Sprite 500 ml", 
+        "precio": 2000,
+        "img": "img/bebidas/sprite500ml.png",
+        "stock": 40,
+        "id_cat": 2
+     },
+    { 
+        "id": 4, 
+        "nombre": "Fanta 500 ml", 
+        "precio": 2000,
+        "img": "img/bebidas/fanta500ml.png",
+        "stock": 35,
+        "id_cat": 2
+     },
+    { 
+        "id": 5, 
+        "nombre": "Agua Mineral 500 ml (sin gas)", 
+        "precio": 1700,
+        "img": "img/bebidas/aguamineralsingas500ml.png",
+        "stock": 60,
+        "id_cat": 2
+     },
+        { 
+        "id": 6, 
+        "nombre": "Agua Mineral 600 ml (con gas)", 
+        "precio": 1700,
+        "img": "img/bebidas/aguamineralcongas600ml.png",
+        "stock": 55,
+        "id_cat": 2
+     },
+    { 
+        "id": 7, 
+        "nombre": "Coca-Cola 1.5 lt", 
+        "precio": 3500,
+        "img": "img/bebidas/cocacola15.png",
+        "stock": 30,
+        "id_cat": 2
+     },
+    { 
+        "id": 8, 
+        "nombre": "Coca-Cola Zero 1.5 lt", 
+        "precio": 3500,
+        "img": "img/bebidas/cocacolazero15.png",
+        "stock": 25,
+        "id_cat": 2
+     },
+    { 
+        "id": 9, 
+        "nombre": "Sprite 1.5 lt", 
+        "precio": 3500,
+        "img": "img/bebidas/sprite15.png",
+        "stock": 20,
+        "id_cat": 2
+    },
+    { 
+        "id": 10, 
+        "nombre": "Fanta 1.5 lt", 
+        "precio": 3500,
+        "img": "img/bebidas/fanta15.png",
+        "stock": 18,
+        "id_cat": 2
+    },
+    { 
+        "id": 11, 
+        "nombre": "Agua Mineral 1.5 lt (sin gas)", 
+        "precio": 2500,
+        "img": "img/bebidas/aguamineralsingas500ml.png",
+        "stock": 40,
+        "id_cat": 2
+    },
+        { 
+        "id": 12, 
+        "nombre": "Agua Mineral 1.5 lt (con gas)", 
+        "precio": 2500,
+        "img": "img/bebidas/aguamineralcongas15.png",
+        "stock": 35,
+        "id_cat": 2
+    }
+  ]
+}
